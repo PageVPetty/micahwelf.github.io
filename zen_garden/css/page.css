@@ -1,4 +1,7 @@
 body {
+  
+  font-family: 'Verdana';
+  	text-shadow: 1pt 1pt 1pt rgb(21, 0, 11);
   background:
     url(../magenta-frog.jpg) no-repeat top right; 
   }
